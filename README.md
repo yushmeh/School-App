@@ -83,3 +83,8 @@ http://localhost:8000
 
 Доступна по адресу: http://localhost:8000/docs 
 
+---
+
+## 👥 Авторы
+
+[@yushmeh](https://github.com/yushmeh)
