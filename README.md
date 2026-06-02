@@ -1,6 +1,11 @@
-# 🌌 NEXUS ACADEMY — Online School Management System
+# 🌌 НЕКСУС АКАДЕМИЯ — Онлайн-система управления школой
 
-**NEXUS ACADEMY** — это современная веб-система управления онлайн-школой, построенная на базе **FastAPI (Python 3.14)** с использованием архитектурного паттерна **Clean Architecture (3-Tier)**. 
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
+[![Style](https://img.shields.io/badge/UI-Sci--Fi%20Dark%20Mode-cyan?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+**НЕКСУС АКАДЕМИЯ** — это современная веб-система управления онлайн-школой, построенная на базе **FastAPI (Python 3.14)** с использованием архитектурного паттерна **Clean Architecture (3-Tier)**. 
 
 Интерфейс приложения выполнен в виде интерактивного Single Page Application (SPA) в футуристичном стиле **Sci-Fi Dark Mode** с использованием визуальных эффектов **Glassmorphism**.
 
