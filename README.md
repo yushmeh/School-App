@@ -33,29 +33,22 @@ school_app/
     └── index.html   # Фронтенд: SPA-интерфейс (Sci-Fi Dark Mode / Glassmorphism)
 ```
 
-## Запуск
+## 🛠 Запуск
 
 Для работы приложения необходим Python 3.14.
 
 ```bash
 # 1. Установить зависимости
-
 pip install -r requirements.txt
 
-
-
 # 2. Запустить сервер
-
 uvicorn main:app --reload --port 8000
 
-
-
 # 3. Открыть в браузере
-
 http://localhost:8000
 ```
 
-## API Эндпоинты
+## 📡 API Эндпоинты
 
 | Метод  | URL                              | Описание                         |
 
@@ -83,9 +76,7 @@ http://localhost:8000
 
 | POST   | /api/courses/{id}/complete       | Завершить курс                   |
 
-## Интерактивная документация API
-
-
+## 📖 Интерактивная документация API
 
 Доступна по адресу: http://localhost:8000/docs 
 
